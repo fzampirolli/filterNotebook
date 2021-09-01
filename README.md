@@ -1,19 +1,3 @@
-PARA VER AS NOTAS DE AULAS, ABRIR OS ARQUIVOS COM EXTENSÃO ipynb 
-UTILIZANDO GOOGLE DRIVE NA PASTA gen.
-
-Para assistir vídeos explicativos das Notas de Aula (em Python), 
-da disciplina de Processamento da Informação TEORIA e PRÁTICA, 
-ver página da turma:
-
-https://sites.google.com/site/fzampirolli/pi-2021-2
-
-
-Ver material didático e vídeos introdutórios da disciplina
-de Bases Computacionais da Ciência, para prática com Colab:
-
-https://sites.google.com/site/fzampirolli/bcc-2020-1
-
----
 Copyright (C) 2021 Francisco de Assis Zampirolli
 from Federal University of ABC. All rights reserved.
 
@@ -27,6 +11,18 @@ filterNotebook is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+To watch the explanatory videos of Lecture Notes (in Python), 
+from the THEORY and PRACTICE of Information Processing course, 
+see the class page:
+
+https://sites.google.com/site/fzampirolli/pi-2021-2
+
+See the course material and introductory videos
+of Computer Science Bases, for practice with Colab:
+
+https://sites.google.com/site/fzampirolli/bcc-2020-1
+
 ---
 
 # Generator Notebooks with Filter by Language
