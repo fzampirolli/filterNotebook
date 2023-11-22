@@ -1,4 +1,6 @@
-Copyright (C) 2021 Francisco de Assis Zampirolli
+# filterNotebook
+
+Copyright (C) 2021-2024 Francisco de Assis Zampirolli
 from Federal University of ABC. All rights reserved.
 
 filterNotebook is free: you can redistribute it and/or modify
@@ -16,12 +18,12 @@ To watch the explanatory videos of Lecture Notes (in Python),
 from the THEORY and PRACTICE of Information Processing course, 
 see the class page:
 
-https://sites.google.com/site/fzampirolli/pi-2021-2
+[pi-2024-1](https://sites.google.com/site/fzampirolli/pi-2024-1)
 
 See the course material and introductory videos
 of Computer Science Bases, for practice with Colab:
 
-https://sites.google.com/site/fzampirolli/bcc-2020-1
+[bcc-2021-3](https://sites.google.com/site/fzampirolli/bcc-2021-3)
 
 ---
 
@@ -29,8 +31,10 @@ https://sites.google.com/site/fzampirolli/bcc-2020-1
 
 From notebooks with 'code' or 'markdown' cells with markers in the 
 first line defining a language to be filtered, with the syntax 
-#[type]#, new notebooks will be created by executing the following 
-command:
+
+	#[type]#
+	
+new notebooks will be created by executing the following command:
 
 ```
 python filterNotebook.py file type format
@@ -71,4 +75,4 @@ notebooks, make a copy of the generated notebooks.
 
 If you have any suggestions for correction or improvement, please 
 contact the authors.
-# filterNotebook
+
