@@ -1,7 +1,9 @@
 # filterNotebook
 
-Copyright (C) 2021-2024 Francisco de Assis Zampirolli
+Copyright (C) 2021-2026 Francisco de Assis Zampirolli
 from Federal University of ABC. All rights reserved.
+
+For test cases, see ./cases/README.md
 
 filterNotebook is free: you can redistribute it and/or modify
 it under the terms of the GNU General Public License
@@ -18,12 +20,14 @@ To watch the explanatory videos of Lecture Notes (in Python),
 from the THEORY and PRACTICE of Information Processing course, 
 see the class page:
 
-[pi-2024-1](https://sites.google.com/site/fzampirolli/pi-2024-1)
+[pi-2025-1](https://sites.google.com/site/fzampirolli/pi-2025-1)
 
 See the course material and introductory videos
 of Computer Science Bases, for practice with Colab:
 
 [bcc-2021-3](https://sites.google.com/site/fzampirolli/bcc-2021-3)
+
+For more details, see [paperSBIE2021]](https://doi.org/10.5753/sbie.2021.217464).
 
 ---
 
